@@ -32,3 +32,10 @@ How to Import OpenCart to Facebook
 10. Paste your Data Feed URL
 11. Click on the "Activate" button
 12. Connect your store to your desired Facebook fan page
+
+
+Help and support
+----------------
+You're welcome to use [our wide database](http://support.zendesk.com) for any question.
+We prepared for you guides that will answer your questions.  
+For example – type: "How to import OpenCart to Facebook" in the search box.
