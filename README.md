@@ -36,6 +36,6 @@ How to Import OpenCart to Facebook
 
 Help and support
 ----------------
-You're welcome to use [our wide database](http://support.zendesk.com) for any question.
+You're welcome to use [our wide database](https://storeya.zendesk.com/home) for any question.
 We prepared for you guides that will answer your questions.  
 For example – type: "How to import OpenCart to Facebook" in the search box.
